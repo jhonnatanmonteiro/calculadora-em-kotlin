@@ -1,0 +1,10 @@
+<resources>
+    <style name="theme.app.splash" parent ="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#000000</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/icons8_calculator_48</item>
+        <item name="postSplashScreenTheme">@style/Theme.AppCompat.DayNight.NoActionBar</item>
+
+
+
+    </style>
+</resources>

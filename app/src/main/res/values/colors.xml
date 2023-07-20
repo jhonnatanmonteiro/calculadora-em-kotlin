@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    //cores do app
+    <color name= "jarnela_fundo">#111111</color>
+    <color name= "interface_fundo">#222222</color>
+    <color name= "verde1">#4ea043</color>
+    <color name= "vermelho">#d14f4f</color>
+    <color name= "fundo_spash_screan">#C5C1C1</color>
+
+</resources>
